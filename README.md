@@ -1,1 +1,1 @@
-# Cloudflare worker JS script
+# Cloudflare worker Javascript
