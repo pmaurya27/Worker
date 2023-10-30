@@ -1,0 +1,16 @@
+main = "src/index.js"
+compatibility_date = "2023-10-30"
+
+name = "geo-worker"
+type = "webpack"
+account_id = "a7be10a5ba652e07054c205d842a573d"
+workers_dev = true
+
+[site]
+bucket = "./"
+
+
+[env.production]
+zone_id = "00f044635116115345381cf5cb941518"
+route = "myweb-server.com/geo" # Update with your domain
+
